@@ -44,13 +44,13 @@ export function GallerySection() {
           }}
         >
           <SwiperSlide>
-            <img src="src/assets/gallery-content-1.png" alt="Car 1" className="mb-12 mt-12"/>
+            <img src="/gallery-content-1.png" alt="Car 1" className="mb-12 mt-12"/>
           </SwiperSlide>
           <SwiperSlide>
-            <img src="src/assets/gallery-content-2.png" alt="Car 2" className="mb-12 mt-12"/>
+            <img src="/gallery-content-2.png" alt="Car 2" className="mb-12 mt-12"/>
           </SwiperSlide>
           <SwiperSlide>
-            <img src="src/assets/gallery-content-3.png" alt="Car 3" className="mb-12 mt-12"/>
+            <img src="/gallery-content-3.png" alt="Car 3" className="mb-12 mt-12"/>
           </SwiperSlide>
         </Swiper>
       </section>
