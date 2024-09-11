@@ -14,7 +14,7 @@ export function GallerySection() {
     const inactiveLinkStyle = 'text-gray-600';
 
     return (
-      <section className="xl:mx-32 xl:mt-96 xl:pt-32 max-sm:mx-8 max-sm:mt-96">
+      <section className="xl:mx-32 xl:mt-96 xl:pt-32 lg:mt-64 lg:mx-12 max-sm:mx-8 max-sm:mt-96">
         <p className="text-blue-400">Prezentacja firmy</p>
         <h1 className="text-4xl font-bold mb-6">ZOBACZ NASZĄ GALERIĘ ZDJĘĆ</h1>
         <div className="flex space-x-6">

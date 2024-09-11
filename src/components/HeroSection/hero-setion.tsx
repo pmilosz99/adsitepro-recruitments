@@ -1,6 +1,6 @@
 export function HeroSection() {
     return (
-      <section className="xl:mt-32 xl:mb-96 xl:mx-32 max-sm:m-8">
+      <section className="xl:mt-32 xl:mb-96 xl:mx-32 lg:mt-14 lg:mb-1 lg:mx-12 max-sm:m-8">
         <h1 className="text-5xl font-bold mb-4 tracking-tight">SPRZEDAJEMY SAMOCHODY <br /> Z EUROPY</h1>
         <p className="text-md text-gray-700 mb-8 my-10">Kup komfortowy pojazd, aby każda podróż <br /> była wyjątkowym przeżyciem.</p>
         <div className="space-x-4">
